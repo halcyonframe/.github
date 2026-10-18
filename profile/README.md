@@ -10,7 +10,8 @@ glances, with no glow, no notifications, no cloud account and no subscription.
 
 **Principles**
 
-- **Local first.** Photos and settings stay on the frame's own card. Nothing phones home.
+- **Local first.** Photos and settings stay on the frame's own card. No account, no cloud storage; the
+  only internet use is optional automatic time and time-zone setup, and one switch turns it off.
 - **Open.** Firmware, server and site are MIT-licensed and built in the open.
 - **Calm by design.** Changes happen slowly and quietly; the frame never demands attention.
 
@@ -20,6 +21,6 @@ glances, with no glow, no notifications, no cloud account and no subscription.
 |---|---|
 | [**halcyonframe**](https://github.com/halcyonframe/halcyonframe) | Firmware for the Waveshare ESP32-S3 PhotoPainter (7.3" Spectra 6 e-paper): web UI on the frame, in-browser dithering, status screens, OTA updates |
 | **halcyonframe-server** *(planned)* | Optional self-hosted coordinator: sync several frames, Immich and photo-library plugins, Home Assistant, weather alerts |
-| **website** *(planned)* | halcyonframe.com, with a browser-based installer for fresh or bricked frames |
+| [**website**](https://github.com/halcyonframe/website) | [halcyonframe.com](https://halcyonframe.com), with a browser-based installer for fresh or bricked frames |
 
 <sub>Not affiliated with Waveshare. "PhotoPainter" is Waveshare's product name.</sub>
