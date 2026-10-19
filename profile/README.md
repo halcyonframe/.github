@@ -11,7 +11,7 @@ glances, with no glow, no notifications, no cloud account and no subscription.
 **Principles**
 
 - **Local first.** Photos and settings stay on the frame's own card. No account, no cloud storage; the
-  only internet use is optional automatic time and time-zone setup, and one switch turns it off.
+  only internet use is optional automatic time and time-zone setup, and Hush mode turns it off completely.
 - **Open.** Firmware, server and site are MIT-licensed and built in the open.
 - **Calm by design.** Changes happen slowly and quietly; the frame never demands attention.
 
